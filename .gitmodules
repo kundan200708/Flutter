@@ -1,0 +1,21 @@
+[submodule "Barcode_Generator_Application"]
+	path = Barcode_Generator_Application
+	url = https://github.com/kundan200708/Barcode_Generator_Application.git
+[submodule "Bmi_app"]
+	path = Bmi_app
+	url = https://github.com/kundan200708/Bmi_app.git
+[submodule "bmi_app"]
+	path = bmi_app
+	url = https://github.com/kundan200708/Bmi_app.git
+[submodule "login-_screen"]
+	path = login-_screen
+	url = https://github.com/kundan200708/login-_screen.git
+[submodule "flutter-dashboard-ui"]
+	path = flutter-dashboard-ui
+	url = https://github.com/kundan200708/flutter-dashboard-ui.git
+[submodule "alert_dialog_application"]
+	path = alert_dialog_application
+	url = https://github.com/kundan200708/Alert_Dialog_Application.git
+[submodule "passing_data_one_screen_to_another"]
+	path = passing_data_one_screen_to_another
+	url = https://github.com/kundan200708/Screen_to_Screen_Data-Passing.git
